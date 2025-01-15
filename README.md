@@ -18,9 +18,7 @@
 - **高效复刻**：小白用户大约两个小时即可复刻完成，有一定代码基础的用户约一个小时即可完成。⏰
 - **灵活扩展**：支持不同类型的题目和考试平台，满足多样化的学习需求。🔄
 
-📹 **详细讲解视频**：[点击观看](https://github.com/你的用户名/刷题脚本#视频链接) *(请在 GitHub 上上传视频链接)*
-
-**项目地址**：[GitHub - 你的用户名/刷题脚本](https://github.com/你的用户名/刷题脚本) 🌐
+**项目地址**：[GitHub - LY-zhang-yi-hao/刷题脚本](https://github.com/LY-zhang-yi-hao/cursor-python-shua_ti_jiao_ben/tree/main)) 🌐
 
 ---
 
